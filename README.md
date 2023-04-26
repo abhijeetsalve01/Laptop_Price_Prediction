@@ -1,6 +1,4 @@
-Here is a possible project description for a laptop price prediction model:
-
-Project Title: Laptop Price Prediction Model
+#Project Title: Laptop Price Prediction Model
 
 Project Description:
 The objective of this project is to build a machine learning model that can accurately predict the price of a laptop based on its specifications. The model will be trained on a dataset that contains information about various laptops, such as their brand, model, screen size, processor, RAM, storage, graphics card, battery life, operating system, and price.
